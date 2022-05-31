@@ -102,7 +102,7 @@ Firstly, We need to make sure that we understand the requirement in order to hav
     Cucumber(BDD) - 1.9.51
     Serenity - 2.6.0
     maven - 1.5.8
-    Intellij IDEA - 2021.2.1 (IDE-Integrated development environment)
+    Intellij IDEA - 2021.2.1 Or Eclipse (IDE-Integrated development environment)
     Gitlab/Github - Free Subscription. 
     Chrome Browser - For better view of Serenity Report 
     Manual Testing : Postman ( to verify the results manually) - Optional
